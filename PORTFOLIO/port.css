@@ -1,0 +1,38 @@
+.rectangular{
+	display: flex;
+	height: 900px;
+	width: 100%;
+	background-color: pink;
+}
+
+
+
+.middle{
+	display: flex;
+	height: 100%;
+	width: 90%;
+	background-color: pink;
+}
+
+mark{
+	background-color: blue;
+	color: white;
+}
+
+.ml{
+	height: 100%;
+	width: 35%;
+	background-color: pink;	
+}
+
+.mm{
+	height: 100%;
+	width: 3%;
+	background-color: pink;	
+}
+
+.mr{
+	height: 100%;
+	width: 35%;
+	background-color: pink;	
+}
