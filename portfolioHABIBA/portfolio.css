@@ -1,0 +1,41 @@
+.rectangular{
+	height: 900px;
+	width: 100%;
+}
+.top{
+	height: 5%;	
+}
+
+.middle1{
+	height: 5%;
+	width: 100%; 
+}
+.middle2{
+	display: flex;
+	height: 50%;
+	width: 100%; 
+}
+.left{
+	width: 80%; 
+}
+
+.right{
+	width: 20%; 
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+.topnav a:hover {
+  background-color: #cacfd2;
+  color:  black;
+}
